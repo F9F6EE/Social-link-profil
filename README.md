@@ -27,8 +27,8 @@ Build out a social link-sharing profile.
 
 ### Links
 
-- [Solution URL:](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL : [Frontend Mentor](https://www.frontendmentor.io/solutions/social-link-profile-using-html-and-css-2SYK19qQzG)
+- Live Site URL : [Social-link-profil](https://f9f6ee.github.io/Social-link-profile/)
 
 ## My process
 
