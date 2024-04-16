@@ -44,7 +44,6 @@ Build out a social link-sharing profile.
 
 i'll keep working on new challenges.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
